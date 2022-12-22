@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Java8studyApplication {
 
     public static void main(String[] args) {
+        System.out.println("dfafdasf");
         SpringApplication.run(Java8studyApplication.class, args);
     }
 
